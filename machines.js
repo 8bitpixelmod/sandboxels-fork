@@ -51,9 +51,8 @@ elements.poop = {
     behavior: behaviors.POWDER,
     category: "life",
     state: "solid",
-    burn: 100,
-    burnTime: 30,
-    burnInto: "stench"
+    temphigh: 100,
+    statehigh: "stench"
 };
 elements.esuperheater = {
     color: "#ff69b4",  // Pink color
